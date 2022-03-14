@@ -1,0 +1,5 @@
+*.o
+.depend
+*.laz
+fix-copc-srs
+*.wkt
